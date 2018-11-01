@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7fbf90aa-6de9-4533-a52a-74f6e21a07ae" name="ueda_n@localhost:2222" url="http:///">
-        <fileTransfer host="localhost" port="2222" accessType="SFTP" authAgent="true">
+      <webServer id="7f2f1687-8df5-4a6f-a30a-cbe403141a27" name="lotus_kup" url="http:///">
+        <fileTransfer host="localhost" port="2222" rootFolder="/mnt/berry/home/ueda" accessType="SFTP" authAgent="true">
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
