@@ -1,0 +1,13 @@
+<keymap version="1" name="Mac OS X 10.5+ コピー" parent="Mac OS X 10.5+">
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+</keymap>
